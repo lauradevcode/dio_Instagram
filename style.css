@@ -86,14 +86,19 @@ body {
 .instagram-logout {
     color: #0095f6;
     margin-top: 1rem;
+    font-weight: 600;
 }
 
 .not-account {
     color: rgb(160, 160, 160);
+    font-size: 1.0rem;
+    cursor: pointer;
+    margin-bottom: 2px;
 }
 
 .link-blue {
     color: #0095f6;
+    font-weight: 600;
 }
 
 .get-the-app {
@@ -152,7 +157,7 @@ body {
     .instagram-continue {
         width: 100%;
     }
-    
+
     .group {
         border: 1px solid transparent;
     }
