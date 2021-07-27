@@ -29,11 +29,13 @@ body {
     display: flex;
     align-items: center;
     justify-content: center;
-    width: 50%;
+    width: 48%;
+
 }
 
 .instagram-phone img {
-    height: 50rem;
+    height: 40rem;
+    margin-left: 9%;
 }
 
 .instagram-continue {
@@ -93,7 +95,7 @@ body {
     color: rgb(160, 160, 160);
     font-size: 1.0rem;
     cursor: pointer;
-    margin-bottom: 2px;
+    margin-bottom: 3px;
 }
 
 .link-blue {
